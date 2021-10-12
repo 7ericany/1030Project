@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.17)  12 OCT 2021 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.17)  12 OCT 2021 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -802,26 +802,45 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip72
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen257
+\captionmargin@=\dimen258
+\captionwidth=\dimen259
+\caption@tempdima=\dimen260
+\caption@indent=\dimen261
+\caption@parindent=\dimen262
+\caption@hangindent=\dimen263
+)
+\c@ContinuedFloat=\count163
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 ) (./proposal.aux)
 \openout1 = `proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -842,12 +861,12 @@ LaTeX Font Info:    ... okay on input line 24.
 * \topmargin=-38.1381pt
 * \headheight=14.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -859,16 +878,16 @@ LaTeX Font Info:    ... okay on input line 24.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count163
-\scratchdimen=\dimen257
+\scratchcounter=\count164
+\scratchdimen=\dimen264
 \scratchbox=\box64
-\nofMPsegments=\count164
-\nofMParguments=\count165
+\nofMPsegments=\count165
+\nofMParguments=\count166
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count166
-\MPscratchDim=\dimen258
-\MPnumerator=\count167
-\makeMPintoPDFobject=\count168
+\MPscratchCnt=\count167
+\MPscratchDim=\dimen265
+\MPnumerator=\count168
+\makeMPintoPDFobject=\count169
 \everyMPtoPDFconversion=\toks45
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -889,7 +908,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box65
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -897,18 +916,20 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count169
+\c@section@level=\count170
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (./proposal.out) (./proposal.out)
 \@outlinefile=\write5
 \openout5 = `proposal.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
@@ -916,78 +937,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 File: ../figures/total-cases-map.png Graphic file (type png)
 
 <use ../figures/total-cases-map.png>
-Package pdftex.def Info: ../figures/total-cases-map.png used on input line 48.
-(pdftex.def)             Requested size: 318.66948pt x 182.0949pt.
+Package pdftex.def Info: ../figures/total-cases-map.png used on input line 51.
+(pdftex.def)             Requested size: 364.19667pt x 208.11098pt.
 
 <../figures/total-cases-time-series.png, id=33, 1011.78pt x 578.16pt>
 File: ../figures/total-cases-time-series.png Graphic file (type png)
 
 <use ../figures/total-cases-time-series.png>
 Package pdftex.def Info: ../figures/total-cases-time-series.png used on input l
-ine 58.
-(pdftex.def)             Requested size: 318.66948pt x 182.0949pt.
+ine 61.
+(pdftex.def)             Requested size: 364.19667pt x 208.11098pt.
+ [1
 
-<../figures/total_cases-new_cases-scatter.png, id=34, 433.62pt x 289.08pt>
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figu
+res/total-cases-map.png>]
+<../figures/total_cases-new_cases-scatter.png, id=45, 433.62pt x 289.08pt>
 File: ../figures/total_cases-new_cases-scatter.png Graphic file (type png)
 
 <use ../figures/total_cases-new_cases-scatter.png>
 Package pdftex.def Info: ../figures/total_cases-new_cases-scatter.png used on i
-nput line 67.
+nput line 70.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
 
-<../figures/total_cases-manual-scatter.png, id=35, 433.62pt x 289.08pt>
+<../figures/total_cases-manual-scatter.png, id=46, 433.62pt x 289.08pt>
 File: ../figures/total_cases-manual-scatter.png Graphic file (type png)
 
 <use ../figures/total_cases-manual-scatter.png>
 Package pdftex.def Info: ../figures/total_cases-manual-scatter.png used on inpu
-t line 70.
+t line 73.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-[1
+[2 <../figures/total-cases-time-series.png> <../figures/total_cases-new_cases-s
+catter.png> <../figures/total_cases-manual-scatter.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2 <../figures/total-cases-map.png> <../figures/total-cases-time-series.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+ []
 
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3 <../figures/total_cases-new_cases-scatter.png> <../figures/total_cases-man
-ual-scatter.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+) [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+
 (./proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: ED93303C9CA0A2A68E75BE9147B10403;332.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 19461 strings out of 492995
- 366894 string characters out of 6132703
- 462268 words of memory out of 5000000
- 22596 multiletter control sequences out of 15000+600000
- 13387 words of font info for 49 fonts, out of 8000000 for 9000
+ 20481 strings out of 492995
+ 385693 string characters out of 6132703
+ 479858 words of memory out of 5000000
+ 23608 multiletter control sequences out of 15000+600000
+ 13687 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,66p,826b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on proposal.pdf (3 pages, 1298396 bytes).
+ 55i,7n,66p,838b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on proposal.pdf (3 pages, 1338196 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
