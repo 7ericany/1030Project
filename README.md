@@ -12,11 +12,11 @@ Here is the GitHub repository of my DATA1030 final project. In this project, I d
 * scikit-learn >= 0.24.1
 * statsmodels = 0.12.2
 * matplotlib=3.4.2
-  - pandas=1.3.1
-  - numpy=1.21.1
-  - py-xgboost=1.3.3
-  - shap=0.39.0
-  - geopandas=0.10.2
+* pandas=1.3.1
+* numpy=1.21.1
+* py-xgboost=1.3.3
+* shap=0.39.0
+* geopandas=0.10.2
 
 
 
